@@ -1,0 +1,24 @@
+{
+  "name": "tdd-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CarBuyer.js",
+  "scripts": {
+    "test": "jest --watch-all",
+    "test-coverage": "jest --collect-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurie-Multiverse/TDD-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurie-Multiverse/TDD-demo/issues"
+  },
+  "homepage": "https://github.com/Laurie-Multiverse/TDD-demo#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
